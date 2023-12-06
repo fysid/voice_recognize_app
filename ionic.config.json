@@ -1,0 +1,7 @@
+{
+  "name": "voice_recognize",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
