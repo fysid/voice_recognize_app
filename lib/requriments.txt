@@ -1,4 +1,0 @@
-npm install ionic
-npm install vosk
-npm install capacitor-voice-recorder
-npm install @capacitor/filesystem

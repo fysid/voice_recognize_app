@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
 import {
   IonApp, IonRouterOutlet, IonHeader, IonToolbar,
-  IonTitle, IonContent, IonMenu, IonMenuButton, IonButtons,
-  IonItem, IonList, IonButton
+  IonTitle, IonContent, IonMenu, 
+  IonItem, IonList
 } from '@ionic/angular/standalone';
 
 @Component({
@@ -11,8 +11,8 @@ import {
   standalone: true,
   imports: [
     IonApp, IonRouterOutlet, IonHeader, IonToolbar,
-    IonTitle, IonContent, IonMenu, IonMenuButton, IonButtons,
-    IonItem, IonList, IonButtons, IonButton
+    IonTitle, IonContent, IonMenu,
+    IonItem, IonList
   ],
 })
 export class AppComponent {
