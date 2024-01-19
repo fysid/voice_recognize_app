@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { IonHeader, IonToolbar, IonTitle, IonContent, IonMenu, IonMenuButton, IonButtons} from '@ionic/angular/standalone';
-import Record from './test';
+import Record from './record';
 
 @Component({
   selector: 'app-home',
